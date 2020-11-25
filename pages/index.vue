@@ -5,6 +5,7 @@
       <h1 class="title">
         Welcome to Nuxt.js
       </h1>
+      <p>"{{ process.env.API_URL }}"</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
